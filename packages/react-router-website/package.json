@@ -50,5 +50,8 @@
     "react-transition-group": "^1.1.2",
     "resolve-pathname": "^2.0.2",
     "slug": "^0.9.1"
+  },
+  "jest": {
+    "displayName": "react-router-website"
   }
 }
